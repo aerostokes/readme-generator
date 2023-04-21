@@ -20,11 +20,22 @@ const licenseArr = [
 ];
 
 
-
+const getBadge = strLicense => {
+  const objLicense = licenseArr.find(eachLicense => eachLicense.name === strLicense);
+  if (objLicense.badge) { 
+    return `![License](${objLicense.badge})`
+  } else {
+    return ""
+  }
+}
 
 // Define the Contents of README.md
 const generateFile = answers => {
-  return ""
+  const badge = getBadge(answers.license)
+
+  const fileContents = `# ${answers.title}     ${badge}
+  `
+  return fileContents
 };
 
 
