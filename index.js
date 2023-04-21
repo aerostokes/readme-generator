@@ -2,6 +2,7 @@
 const fs = require("fs");
 const inquirer = require("inquirer");
 
+
 // Define license choices
 const licenseArr = [
   { name: "None", badge: "" },
@@ -113,6 +114,7 @@ const getBadge = strLicense => {
     return ""
   }
 }
+
 
 // Define the Contents of README.md
 const generateFile = answers => {

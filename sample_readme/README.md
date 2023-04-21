@@ -1,8 +1,8 @@
-#      ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+# Sample Project     ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
 
-
+Short description of project.
 
 ## Table of Contents
 
@@ -17,11 +17,11 @@
 
 ## Installation
 
-
+Installation instructions.
 
 ## Usage
 
-
+Usage instructions.
 
 ## License
 
@@ -30,18 +30,18 @@ Refer to LICENSE in the repo for additional details.
 
 ## Tests
 
-
+N/A
 
 ## Credits
 
-
+N/A
 
 ## How to Contribute
 
-
+N/A
 
 ## Questions
 
 For questions or suggestions, contact:  
-GitHub: [@](https://github.com/)  
-Email: [](mailto:)
+GitHub: [@aerostokes](https://github.com/aerostokes)  
+Email: [rhonda@aerostokes.com](mailto:rhonda@aerostokes.com)
