@@ -1,4 +1,4 @@
-# 09: Professional README generator     ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+#      ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
 
@@ -42,8 +42,6 @@ Refer to LICENSE in the repo for additional details.
 
 ## Questions
 
-For questions or suggestions, contact:
-
-GitHub: [@](https://github.com/) 
-
+For questions or suggestions, contact:  
+GitHub: [@](https://github.com/)  
 Email: [](mailto:)

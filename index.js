@@ -30,7 +30,7 @@ fs.readFile("README.md", function(err, data) {
       name: "overwrite",
       message: "This directory already contains a README.md. Would you like to overwrite its contents?"
     }).then(response => {
-      if (response) { 
+      if (response.overwrite) { 
         getUserInputs();
       } else {
         console.log("README generation cancelled.");
